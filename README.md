@@ -1,6 +1,6 @@
 # Grid to Slideshow Switch Animations
 
-Some ideas for grid to slideshow switch animations using GSAP's Flip plugin.
+Some ideas for grid to slideshow switch animations using GSAP's Flip plugin..
 
 ![Grid to Slider](https://tympanus.net/codrops/wp-content/uploads/2023/05/gridtoslider_feat.jpg)
 
